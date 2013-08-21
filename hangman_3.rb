@@ -1,5 +1,5 @@
 class Game
-
+#comment
 	def play_game
 		get_a_word
 		hide_the_word
